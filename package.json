@@ -1,0 +1,22 @@
+{
+  "name": "tpsymfony",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wissem18/TpSymfony.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wissem18/TpSymfony/issues"
+  },
+  "homepage": "https://github.com/wissem18/TpSymfony#readme"
+}
